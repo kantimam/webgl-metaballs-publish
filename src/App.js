@@ -5,12 +5,12 @@ function App() {
   return (
     <div className="App">
       <MetaBalls 
-        childContainerFlex={"row-reverse"} /* container is flex you can decide the position of your content with flexdirection properties */
-        innerContainer={<div style={{ width: "60rem", maxWidth: "100%", height: "100%"}} />} 
+        /* childContainerFlex={"row-reverse"}  *//* container is flex you can decide the position of your content with flexdirection properties */
+        /* innerContainer={<div style={{ width: "100%", maxWidth: "100%", height: "100%"}} />}  */
         shiftColor={{ min: 10, max: 60 }} 
-        deflectMovement={{ min: 1, max: 5 }}
+        deflectMovement={{ min: 1, max: 7 }}
       >
-        <div className="contentDiv">LET US BULLY YOUR GPU :)</div>
+        {<div className="contentDiv">LET US BULLY YOUR GPU :)</div>}
       </MetaBalls>
     </div>
   );

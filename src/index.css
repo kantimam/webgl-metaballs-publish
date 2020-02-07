@@ -4,7 +4,7 @@ html, body, #root, .App{
 }
 
 .contentDiv{
-  background-color: rgba(100,100,100,0.4);
+  /* background-color: rgba(100,100,100,0.4); */
   height: 100%;
   display: flex;
   justify-content: center;

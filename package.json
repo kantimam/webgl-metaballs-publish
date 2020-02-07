@@ -2,6 +2,7 @@
   "name": "metaball-example",
   "version": "0.1.0",
   "private": true,
+  "website": ".",
   "dependencies": {
     "@types/react": "^16.9.11",
     "react": "^16.12.0",
