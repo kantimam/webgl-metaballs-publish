@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/webgl-metaballs-publish/static/css/main.24fe6f21.chunk.css",
+    "main.js": "/webgl-metaballs-publish/static/js/main.959c18cd.chunk.js",
+    "main.js.map": "/webgl-metaballs-publish/static/js/main.959c18cd.chunk.js.map",
+    "runtime-main.js": "/webgl-metaballs-publish/static/js/runtime-main.843aae05.js",
+    "runtime-main.js.map": "/webgl-metaballs-publish/static/js/runtime-main.843aae05.js.map",
+    "static/js/2.c786813a.chunk.js": "/webgl-metaballs-publish/static/js/2.c786813a.chunk.js",
+    "static/js/2.c786813a.chunk.js.map": "/webgl-metaballs-publish/static/js/2.c786813a.chunk.js.map",
+    "index.html": "/webgl-metaballs-publish/index.html",
+    "precache-manifest.9ca48f47fe8f176af0c095e528d9b9cb.js": "/webgl-metaballs-publish/precache-manifest.9ca48f47fe8f176af0c095e528d9b9cb.js",
+    "service-worker.js": "/webgl-metaballs-publish/service-worker.js",
+    "static/css/main.24fe6f21.chunk.css.map": "/webgl-metaballs-publish/static/css/main.24fe6f21.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.843aae05.js",
+    "static/js/2.c786813a.chunk.js",
+    "static/css/main.24fe6f21.chunk.css",
+    "static/js/main.959c18cd.chunk.js"
+  ]
+}
